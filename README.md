@@ -1,5 +1,9 @@
 # OpenWrt 24.10 for Netgear DGND3700v2 — FIXED BOOT LOOP
 
+<div align="center">
+<img src="DGND3700v2.png" alt="DGND3700v2 Image" width="20%">
+</div>
+
 ## Overview
 
 This repository provides a stable and patched OpenWrt 24.10 firmware for the **Netgear DGND3700v2**, targeting the `bmips/bcm6362` platform.
