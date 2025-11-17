@@ -1,5 +1,10 @@
 # OpenWrt 24.10 for Netgear DGND3700v2 — FIXED BOOT LOOP
 
+The upstream OpenWrt project has now incorporated the necessary fix.  
+**The latest official firmware builds for 24.10 now boot and function correctly on the DGND3700v2.**
+
+This repository remains available for reference and convenience, but users can safely use the current official OpenWrt images.
+
 <div align="center">
 <img src="DGND3700v2.png" alt="DGND3700v2 Image" width="20%">
 </div>
